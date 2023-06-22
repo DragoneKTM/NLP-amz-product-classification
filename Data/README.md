@@ -1,0 +1,1 @@
+Folder populated after running the script _split_training_test.py_

@@ -1,0 +1,1 @@
+Folder where the models trained in the notebooks are saved 
